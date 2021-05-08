@@ -1,2 +1,2 @@
-# some-packages-in-go
+# some-packages-in-go  [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gauravICT/some-packages-in-go)](https://github.com/gauravICT/some-packages-in-go) [![GoReportCard example](https://goreportcard.com/badge/github.com/gauravICT/some-packages-in-go)](https://goreportcard.com/report/github.com/gauravICT/some-packages-in-go) 
 Some examples of different packages available in golang.
